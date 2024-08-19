@@ -1,0 +1,21 @@
+List kode buff RTE Dark:
+2020707 (9)
+
+List kode buff RTE Light:
+1023040 (9)
+
+List kode buff RTE Fire:
+2020101 (9)
+
+List kode buff RTE Water:
+2020606 (8)
+
+List kode buff RTE Wind:
+2020222 (9)
+
+List kode buff RTE Earth:
+2020404 (9)
+6150029 (9)
+
+List kode buff RTE Neutral:
+2020303

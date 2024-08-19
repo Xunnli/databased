@@ -1,0 +1,43 @@
+List kode buff DTE Neutral:
+1019696 (8)
+
+List kode buff DTE Dark:
+1190020 (10) 
+6116116 (10) 
+5010092 (10) 
+
+List kode buff DTE Light:
+1020345 (9)
+3111999 (8)
+
+List kode buff DTE Earth:
+2020202 (9)
+1011001 (9)
+7100666 (9)
+1010002 (8)
+2022222 (8)
+1016646 (7)
+
+List kode buff DTE Fire:
+3210106 (9)
+1121212 (9)
+7088807 (9)
+8120000 (7)
+
+List kode buff DTE Water:
+3210100 (10)
+7150030 (10) 
+1110111 (9)
+
+List kode buff DTE Wind:
+3030303 (9)
+1010055 (8)
+
+3210102 (10) (ilang)
+3210104 (10) (Mati)
+3210103 (10) (Mati)
+3210101 (10) (Mati)
+6010003 (9) (Mati)
+3210105 (9) (Mati)
+3063101 (8) (Mati)
+3062111 (8) (Mati)
