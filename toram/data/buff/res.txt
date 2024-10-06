@@ -1,12 +1,12 @@
 List kode buff Physical Resistance:
+1100000 + CR
+6010701 + INT
 7010014
-6010701
 2020111
-2200117
-4010051
 1020001
-1100000 (9)
-
+2200117
+1010081
+4010051
 
 List kode buff Magic Resistance:
 7010016
@@ -14,6 +14,4 @@ List kode buff Magic Resistance:
 7190000
 6234567
 1111575
-5200025
 6190007
-7150029 (9)
