@@ -35,3 +35,6 @@ List kode buff DTE Wind:
 3030303
 1010055 (8)
 1180020 (7)
+
+Hoki hokian
+7017011 (netral 10)
