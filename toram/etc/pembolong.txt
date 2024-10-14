@@ -9,10 +9,7 @@ Bow 55M, 60M, 69M
 Bowgun 40M, 50M 
 MD 25M, 32M 
 HB 80M, 90M, 100M, 120M, 130M
-OHS 170M, 180M 
+OHS 250M
 THS 50M, 65M, 70M 
 Katana 120M 
-Knuck 100M, 110M 
-
-Pic cuma salah satu contoh
-Source: @nao
+Knuck 100M, 110M
