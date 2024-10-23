@@ -1,0 +1,22 @@
+*PRORATION*
+Proration adalah efek pada boss atau mob ketika suatu jenis serangan digunakan terlalu sering. Hal ini membuat boss/mob menjadi terbiasa dengan jenis serangan tersebut, yang menyebabkan damage dari jenis serangan tersebut menurun. Sebaliknya, damage dari jenis serangan lain akan meningkat. Ada tiga jenis proration:
+* Normal Proration: Dihasilkan dari serangan normal.
+* Physical Proration: Dihasilkan dari skill fisik.
+* Magic Proration: Dihasilkan dari skill sihir.
+
+*Batas Proration*
+Jika suatu jenis serangan digunakan terlalu sering, damage yang dihasilkannya akan berkurang, sementara damage dari jenis serangan lain akan meningkat. Namun, ada batas untuk efek ini:
+* Damage dari serangan tertentu tidak akan berkurang di bawah 50%.
+* Damage dari serangan lain bisa meningkat hingga maksimum 250%.
+Artinya, jika kamu menggunakan satu jenis serangan secara berlebihan, damage-nya akan berkurang, tetapi tidak lebih rendah dari 50%. Sebaliknya, damage dari jenis serangan lain akan meningkat, tetapi tidak melebihi 250%.
+
+*Cara Menghitung Proration Menggunakan Data Boss/Mini Boss*
+Dalam data boss/mini boss, terdapat 3 nilai proration: Normal Prorate (%), Physic Prorate (%), dan Magic Prorate (%). Sebagai contoh, mari kita lihat MoonLight Potum:
+* Normal prorate = 50% berarti damage serangan normal akan meningkat sebesar 50% saat boss menerima 1 serangan fisik atau 1 serangan sihir, dan menurun sebesar 50% saat boss menerima 1 serangan normal.
+* Physic prorate = 100% berarti damage serangan fisik akan meningkat sebesar 100% saat boss menerima 1 serangan normal atau 1 serangan sihir, dan menurun sebesar 100% (100% - 100% = 0%, tetapi sesuai batas proration, damage akan menjadi 50%) saat boss menerima 1 skill fisik.
+* Magic prorate = 5% berarti damage serangan sihir akan meningkat sebesar 5% setiap kali serangan fisik atau normal dilakukan.
+
+*Contoh Pengoptimalan Proration:*
+* Untuk memaksimalkan damage fisik, kamu perlu menggunakan dua serangan dari tipe yang berbeda sebelum menggunakan skill fisik (misalnya 1 serangan normal + 1 skill sihir, atau kombinasi lain). Dengan demikian, damage fisik bisa mencapai batas maksimum 250%.
+* Untuk memaksimalkan damage serangan normal, kamu perlu 3 serangan berbeda sebelum menggunakan serangan normal (misalnya 1 skill fisik + 2 skill sihir), yang juga akan mencapai batas 250%.
+* Untuk memaksimalkan damage sihir, kamu perlu menggunakan 30 serangan berbeda sebelum menggunakan skill sihir, karena Magic Prorate hanya meningkat 5% per serangan berbeda.
