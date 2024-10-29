@@ -63,7 +63,7 @@ dodge% : Dodge %
 aspd : ASPD
 aspd% : ASPD%
 cspd : CSPD
-caspd% : CSPD%
+cspd% : CSPD%
 
 *Enhance Critical*
 cr : Critical Rate
