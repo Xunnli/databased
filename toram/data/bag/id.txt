@@ -162,8 +162,8 @@ LIST TAMBAH SLOT TAS KOLEKSI
 
 89-90
 - Taring Tuscog x4 [Tuscog : Jalan Eryldan: Sekitar Hutan Ein]
-- Larva Silk x20 [Tikus Lumut : Hutan Ein]
-- Taring Manusia Serigala x20 [Wolfret : Jalan Eryldan]
+- Sutra Ulat x20 [Tikus Lumut : Hutan Ein]
+- Bulu Manusia Serigala x20 [Wolfret : Jalan Eryldan]
  
 90-91
 - Serpihan Kayu Kuzto x5 [Kuzto : Distrik Labilans: Alun-Alun]
@@ -172,7 +172,7 @@ LIST TAMBAH SLOT TAS KOLEKSI
 
 91-92
 - Kantong Kristal x5 [Nemopirania : Distrik Racetacula: Area 1]
-- Mantel Bulu Sreg x20 [Tenoblepas : Dataran Rokoko]
+- Ekor Lembut x20 [Tenoblepas : Dataran Rokoko]
 - Papula Kuat x30 [Toksinaria : Distrik Racetacula: Area 1]
 
 92-93
@@ -190,7 +190,7 @@ LIST TAMBAH SLOT TAS KOLEKSI
 
 95-96
 - Tulang Pisteus x5 [Pisteus : Pesisir Ducia: Area Terdalam]
-- Kain Phantom x20 [Flooray : Dasar Tebing Lunagent]
+- Kain Fantom x20 [Flooray : Dasar Tebing Lunagent]
 - Bulu Berang-Berang Laut x30 [Lutris : Pesisir Ducia: Area 3]
 
 96-97
