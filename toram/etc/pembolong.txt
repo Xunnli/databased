@@ -1,18 +1,18 @@
-Harga-harga prime (pembolong 2 slot) tanggal 1-4 November 2024 
+Harga-harga prime (pembolong 2 slot) tanggal 1-4 Desember 2024 
 
-Leg Silk 800M, 844M, 851M, 855M, 870M, 885M, 900M
-Leg Orn 520M, 530M, 550M, 560M
-Leg Need 440M, 460M
-Leg Piercer 130M
-Staff 100M, 111M, 130M, 136M
-Bow 60M, 70M, 73M
-Bowgun 44M, 50M 
-MD 30M
-HB 100M 
-OHS 200M, 235M 
-THS 80M
-Katana 120M, 130M, 140M, 150M
-Knuck 120M, 160M
+Leg Silk 797M, 803M, 810M, 823M
+Leg Orn 451M, 502M, 505M 
+Leg Need 450M
+Leg Piercer 100M, 105M, 108M, 110M, 115M 
+Staff 90M, 100M
+Bow 60M, 65M, 70M, 85M 
+Bowgun 50M, 70M, 75M
+MD 30M, 42M 
+HB 100M, 120M
+OHS 130M, 174M, 180M 
+THS 70M, 80M, 91M 
+Katana 120M, 130M
+Knuck 100M, 120M
 
 Pic cuma salah satu contoh
 Source: @nao
