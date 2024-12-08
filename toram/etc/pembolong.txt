@@ -1,5 +1,19 @@
-Harga-harga prime (pembolong 2 slot) tanggal 1-4 Desember 2024 
+Harga pembolong tanggal 1-4 Desember 2024 
 
+0-1
+Staff : 18m-27m
+Bowgun : 10m-19m
+Bow : 8m-15m
+Katana : 20m-27m
+Ohs : 25m-35m
+Ths : 10m-15m
+Knuck : 20m-25m
+HB : 15m-20m
+arm : 10m-15m
+add : 10m-15m
+Ring : 7m-10m
+
+1-2
 Leg Silk 797M, 803M, 810M, 823M
 Leg Orn 451M, 502M, 505M 
 Leg Need 450M
@@ -13,6 +27,3 @@ OHS 130M, 174M, 180M
 THS 70M, 80M, 91M 
 Katana 120M, 130M
 Knuck 100M, 120M
-
-Pic cuma salah satu contoh
-Source: @nao
